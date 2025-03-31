@@ -1,0 +1,64 @@
+
+{
+  "hero": {
+    "title": "Colorful Dancefloor",
+    "subtitle": "Immerse yourself in a world of animated experiences",
+    "cta": "Explore Now"
+  },
+  "features": [
+    {
+      "title": "Interactive Animations",
+      "description": "Experience smooth, responsive animations that react to your interactions.",
+      "icon": "play"
+    },
+    {
+      "title": "Dynamic Content",
+      "description": "Content loaded from JSON and displayed with beautiful transitions.",
+      "icon": "loader"
+    },
+    {
+      "title": "Modern Design",
+      "description": "Clean, vibrant design with attention to detail and movement.",
+      "icon": "arrow-right"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Neon Dreams",
+      "description": "A collection of animated UI components with neon aesthetics.",
+      "category": "UI Design"
+    },
+    {
+      "title": "Motion Library",
+      "description": "Reusable animation patterns for modern web applications.",
+      "category": "Animation"
+    },
+    {
+      "title": "Rhythm & Flow",
+      "description": "Audio-reactive visual experiments with user interaction.",
+      "category": "Interactive"
+    },
+    {
+      "title": "Colorscape",
+      "description": "Generative art pieces that evolve based on mouse movement.",
+      "category": "Creative Coding"
+    }
+  ],
+  "testimonials": [
+    {
+      "text": "These animations brought our brand to life in ways we never imagined possible!",
+      "author": "Sarah Chen",
+      "role": "Creative Director"
+    },
+    {
+      "text": "The attention to detail in these motion designs is absolutely stunning.",
+      "author": "Mark Johnson",
+      "role": "UI Designer"
+    },
+    {
+      "text": "Smooth, captivating, and extremely well optimized for performance.",
+      "author": "Ana Rodriguez",
+      "role": "Web Developer"
+    }
+  ]
+}
